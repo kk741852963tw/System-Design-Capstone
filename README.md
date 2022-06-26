@@ -200,7 +200,7 @@ Returns the product ids related to the specified product.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kk741852963tw/rfe2204-system-design-capstone.git
+   git clone https://github.com/kk741852963tw/System-Design-Capstone.git
    ```
 3. Install NPM packages
    ```sh
